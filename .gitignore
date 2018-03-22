@@ -103,4 +103,5 @@ ENV/
 # HW1
 hw1/test.csv
 hw1/train.csv
+hw1/*.csv
 
