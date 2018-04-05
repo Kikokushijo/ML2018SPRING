@@ -69,6 +69,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb
 
 # pyenv
 .python-version
@@ -104,4 +105,13 @@ ENV/
 hw1/test.csv
 hw1/train.csv
 hw1/*.csv
+
+# HW2
+hw2/train_X
+hw2/train_Y
+hw2/test_X
+hw2/test_Y
+hw2/sample_submission.csv
+hw2/train.csv
+hw2/*.csv
 
