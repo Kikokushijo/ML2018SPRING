@@ -115,3 +115,5 @@ hw2/sample_submission.csv
 hw2/train.csv
 hw2/*.csv
 
+# HW3
+hw3/*.csv
