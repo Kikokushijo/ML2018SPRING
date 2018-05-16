@@ -129,3 +129,9 @@ hw4/*.csv
 hw4/*.npy
 hw4/recon/*
 hw4/trash/*
+
+# HW5
+hw5/*.csv
+hw5/*.ipynb
+hw5/*.txt
+hw5/word2vec.model
