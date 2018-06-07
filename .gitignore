@@ -135,3 +135,6 @@ hw5/*.csv
 hw5/*.ipynb
 hw5/*.txt
 hw5/word2vec.model
+
+# HW6
+hw6/*.csv
